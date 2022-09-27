@@ -1,5 +1,10 @@
 package OpenChallenge;
 
+/**
+ * Author : 정준호
+ * Date : 2022-09-27
+ */
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

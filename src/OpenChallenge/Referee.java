@@ -1,5 +1,10 @@
 package OpenChallenge;
 
+/**
+ * Author : 정준호
+ * Date : 2022-09-27
+ */
+
 public class Referee {
     private int num;                             // 게임의 난수가 저장될 필드
 

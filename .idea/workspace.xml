@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="52301a59-adc1-493f-b7b2-49bf0fa358a0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OpenChallenge/OpenChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpenChallenge/OpenChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OpenChallenge/Referee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpenChallenge/Referee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,31 +47,29 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OpenChallenge">
-    <configuration name="DivideByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideByZero" />
+  <component name="RunManager" selected="Application.ArrayEx">
+    <configuration name="ArrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_5.ArrayEx" />
       <module name="OpenSWDev-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice3_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivideByZeroHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideByZeroHandling" />
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_1.ForTest" />
       <module name="OpenSWDev-2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InputException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputException" />
-      <module name="OpenSWDev-2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumException" />
-      <module name="OpenSWDev-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice3_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,13 +87,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScannerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_3.ScannerEx" />
+      <module name="OpenSWDev-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice3_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_1.WhileTest" />
+      <module name="OpenSWDev-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice3_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayEx" />
+        <item itemvalue="Application.ScannerEx" />
+        <item itemvalue="Application.ForTest" />
+        <item itemvalue="Application.WhileTest" />
         <item itemvalue="Application.OpenChallenge" />
-        <item itemvalue="Application.NumException" />
-        <item itemvalue="Application.InputException" />
-        <item itemvalue="Application.DivideByZeroHandling" />
-        <item itemvalue="Application.DivideByZero" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +134,7 @@
       <workItem from="1663724189339" duration="1644000" />
       <workItem from="1664244938655" duration="30000" />
       <workItem from="1664253056271" duration="5305000" />
-      <workItem from="1664258576695" duration="3534000" />
+      <workItem from="1664258576695" duration="4749000" />
     </task>
     <servers />
   </component>
