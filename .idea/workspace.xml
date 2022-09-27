@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52301a59-adc1-493f-b7b2-49bf0fa358a0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OpenChallenge/OpenChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpenChallenge/OpenChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OpenChallenge/Referee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OpenChallenge/Referee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -47,13 +46,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayEx">
-    <configuration name="ArrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice3_5.ArrayEx" />
+  <component name="RunManager" selected="Application.LoopAndConditional">
+    <configuration name="ArrayAndLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_7.ArrayAndLoop" />
       <module name="OpenSWDev-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice3_5.*" />
+          <option name="PATTERN" value="Practice3_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice3_1.ForTest" />
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_11.Average" />
       <module name="OpenSWDev-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice3_1.*" />
+          <option name="PATTERN" value="Practice3_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OpenChallenge.OpenChallenge" />
+    <configuration name="LoopAndConditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_13.LoopAndConditional" />
       <module name="OpenSWDev-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OpenChallenge.*" />
+          <option name="PATTERN" value="Practice3_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice3_3.ScannerEx" />
+    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_15.Multiply" />
       <module name="OpenSWDev-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice3_3.*" />
+          <option name="PATTERN" value="Practice3_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice3_1.WhileTest" />
+    <configuration name="TwoDimensionMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice3_9.TwoDimensionMatrix" />
       <module name="OpenSWDev-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice3_1.*" />
+          <option name="PATTERN" value="Practice3_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayEx" />
-        <item itemvalue="Application.ScannerEx" />
-        <item itemvalue="Application.ForTest" />
-        <item itemvalue="Application.WhileTest" />
-        <item itemvalue="Application.OpenChallenge" />
+        <item itemvalue="Application.LoopAndConditional" />
+        <item itemvalue="Application.Multiply" />
+        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.TwoDimensionMatrix" />
+        <item itemvalue="Application.ArrayAndLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +133,9 @@
       <workItem from="1663724189339" duration="1644000" />
       <workItem from="1664244938655" duration="30000" />
       <workItem from="1664253056271" duration="5305000" />
-      <workItem from="1664258576695" duration="4749000" />
+      <workItem from="1664258576695" duration="6176000" />
+      <workItem from="1664286920808" duration="1918000" />
+      <workItem from="1664291712870" duration="3409000" />
     </task>
     <servers />
   </component>
