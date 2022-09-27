@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52301a59-adc1-493f-b7b2-49bf0fa358a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ForSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,21 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.NumException">
+}</component>
+  <component name="RunManager" selected="Application.OpenChallenge">
     <configuration name="DivideByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DivideByZero" />
       <module name="OpenSWDev-2" />
@@ -76,20 +74,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScoreAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScoreAverage" />
+    <configuration name="OpenChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OpenChallenge.OpenChallenge" />
       <module name="OpenSWDev-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OpenChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OpenChallenge" />
         <item itemvalue="Application.NumException" />
         <item itemvalue="Application.InputException" />
         <item itemvalue="Application.DivideByZeroHandling" />
         <item itemvalue="Application.DivideByZero" />
-        <item itemvalue="Application.ScoreAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -104,6 +108,7 @@
       <workItem from="1663724189339" duration="1644000" />
       <workItem from="1664244938655" duration="30000" />
       <workItem from="1664253056271" duration="5305000" />
+      <workItem from="1664258576695" duration="3534000" />
     </task>
     <servers />
   </component>
